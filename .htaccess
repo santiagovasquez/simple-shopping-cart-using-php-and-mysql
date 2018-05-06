@@ -1,0 +1,10 @@
+<IfModule mod_rewrite.c>
+
+RewriteEngine on
+RewriteCond %{HTTP_REFERER} !^$
+RewriteCond %{HTTP_REFERER} !^https://(www\.)?snippetdeveloper\.com [NC]
+RewriteRule \.(jpe?g|gif|bmp|png|js|css)$ - [F]
+</IfModule>
+
+
+
