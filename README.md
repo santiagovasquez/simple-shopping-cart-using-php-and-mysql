@@ -2,10 +2,10 @@
 Simple PHP shopping cart application for beginners.
 
 # Demo: 
-https://www.snippetdeveloper.com/demo/simple-shopping-cart-with-php-mysql/shopping-cart.php
+[https://snippetdeveloper.com/demo/simple-shopping-cart-with-php-mysql/shopping-cart.php](https://www.snippet-developer.com/demos/simple-php-shopping-cart/shopping-cart.php)
 
 # Documentation: 
-EN : https://www.snippetdeveloper.com/tools/simple-shopping-cart-with-php
+EN : [https://www.snippetdeveloper.com/tools/simple-shopping-cart-with-php](https://www.snippet-developer.com/tools/simple-shopping-cart-with-php)
 
 In this tutorial, I am demonstrating how to do step by step, a simple tutorial of a shopping cart with PHP 5.6 and MYSQL. This shopping cart application was developed very simple and simple for the learning purpose of all of us who like this language that has saved our lives at any time. One can take this as an easy shopping cart for any website, but this is purely an idea to create a shopping cart website.
 
